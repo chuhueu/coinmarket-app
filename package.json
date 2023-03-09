@@ -8,9 +8,20 @@
     "lint:fix": "eslint --fix --ext .js,.jsx ."
   },
   "dependencies": {
+    "@walletconnect/web3-provider": "^1.8.0",
+    "@web3auth/web3auth": "^0.4.0",
+    "chart.js": "^3.7.1",
+    "gun": "^0.2020.1235",
+    "magic-sdk": "^8.1.0",
+    "moralis": "^2.14.3",
+    "moralis-v1": "^1.12.0",
     "next": "latest",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-chartjs-2": "^4.0.1",
+    "react-dom": "18.2.0",
+    "react-moralis": "^1.4.2",
+    "react-switch": "^6.0.0",
+    "web3uikit": "^0.1.123"
   },
   "devDependencies": {
     "@types/node": "18.11.3",
